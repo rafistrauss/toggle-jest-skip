@@ -3,6 +3,7 @@
   "displayName": "toggle-jest-skip",
   "description": "VSCode extension that allows for toggling jest skip on/off",
   "version": "1.0.0",
+  "publisher": "rafikis75",
   "repository": {
     "type": "git",
     "url": "https://github.com/rafistrauss/toggle-jest-skip"
